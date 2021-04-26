@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: sitemap.xml
+
+# http://robots-txt.com/
+# https://www.lemonde.fr/robots.txt
