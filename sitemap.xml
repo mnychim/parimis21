@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/index.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/lhotel.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/chambres.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/restaurant.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/spa.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/reservation.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/cgv.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/mentions-legales.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/plan-de-site.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/chambres-classique.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/chambres-confort.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/chambres-deluxe.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://parimis-hotel-spa-paris.netlify.app/chambres-suite.html</loc>
+  <lastmod>2021-04-26T15:45:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
